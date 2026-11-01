@@ -14,7 +14,7 @@ window.SITE = {
   horaires: ["Lundi – Vendredi : 08h00 – 18h00", "Samedi : 08h00 – 13h00", "Dimanche : fermé"],
   logo: "photos/logo/logo.webp",
   // Pour l'application Android : adresse du site publié, ex. "https://intelligence-arts-entreprise.vercel.app" (laisser "" pour le site web)
-  apiBase: "",
+  apiBase: "https://intelligence-arts-entreprise.vercel.app/",
   prixMaquette: "25 000 FCFA"
 };
 
